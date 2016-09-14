@@ -1,5 +1,5 @@
 # hello-world
-Hell World!
+Hello World!
 
 This is our first attempt at using GitHub.
 
